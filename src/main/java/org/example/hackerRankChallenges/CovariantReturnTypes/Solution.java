@@ -61,10 +61,5 @@ public class Solution {
         Flower flower = region.yourNationalFlower();
         System.out.println(flower.whatsYourName());
 
-        String aa = """
-                asd                 asdas
-                dasd
-                
-                """;
     }
 }
