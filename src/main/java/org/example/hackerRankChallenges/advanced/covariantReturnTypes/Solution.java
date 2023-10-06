@@ -1,4 +1,4 @@
-package org.example.hackerRankChallenges.CovariantReturnTypes;
+package org.example.hackerRankChallenges.advanced.covariantReturnTypes;
 
 import java.io.BufferedReader;
 import java.io.IOException;

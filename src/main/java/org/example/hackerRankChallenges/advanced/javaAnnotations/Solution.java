@@ -1,4 +1,4 @@
-package org.example.hackerRankChallenges.JavaAnnotations;
+package org.example.hackerRankChallenges.advanced.javaAnnotations;
 import java.lang.annotation.*;
 import java.lang.reflect.*;
 import java.util.*;

@@ -1,4 +1,4 @@
-package org.example.hackerRankChallenges;
+package org.example.hackerRankChallenges.strings;
 
 import java.util.HashMap;
 import java.util.Scanner;

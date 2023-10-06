@@ -1,4 +1,4 @@
-package org.example.hackerRankChallenges.TagContentExtractor;
+package org.example.hackerRankChallenges.strings.tagContentExtractor;
 
 import java.util.Scanner;
 import java.util.regex.Matcher;
